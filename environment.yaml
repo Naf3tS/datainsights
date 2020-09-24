@@ -1,0 +1,8 @@
+name: datainsights
+dependencies:
+  - jupyter
+  - matplotlib=3.3.1=0
+  - numpy
+  - pandas
+  - python=3.8
+  - scipy
